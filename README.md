@@ -1,2 +1,2 @@
-# AlogrithmsAndDataStrucure
-Javascript Algorithms and Data Structures
+# Alogrithms And Data Strucure
+Bootcamp: Algorithms + Data Structures
