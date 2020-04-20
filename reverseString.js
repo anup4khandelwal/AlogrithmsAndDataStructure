@@ -4,7 +4,7 @@
 // --- Examples
 //   reverse('apple') === 'leppa'
 //   reverse('hello') === 'olleh'
-//   reverse('Greetings!') === '!sgniteerG'
+//   reverse('Greeting!') === '!gniteerG'
 
 function reverse(str) {
   return str.split('').reduce((acc, char) => char + acc ,'')
