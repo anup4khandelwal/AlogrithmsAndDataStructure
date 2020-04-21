@@ -39,6 +39,4 @@ function buildCharMap(str) {
   return charMap;
 }
 
-// Solution 2
-
 module.exports = anagrams;
